@@ -1,0 +1,1578 @@
+2018-03-16 16:08:02 pid:10772 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:10:39 pid:10895 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:10:47 pid:10895 Workerman[start.php] stopping ...
+2018-03-16 16:10:47 pid:10895 Workerman[start.php] has been stopped
+2018-03-16 16:14:12 pid:11045 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:14:18 pid:11045 Workerman[start.php] stopping ...
+2018-03-16 16:14:18 pid:11045 Workerman[start.php] has been stopped
+2018-03-16 16:14:18 pid:11064 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:14:19 pid:11064 Workerman[start.php] stopping ...
+2018-03-16 16:14:19 pid:11064 Workerman[start.php] has been stopped
+2018-03-16 16:14:27 pid:11087 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:14:28 pid:11087 Workerman[start.php] stopping ...
+2018-03-16 16:14:28 pid:11087 Workerman[start.php] has been stopped
+2018-03-16 16:14:33 pid:11107 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:15:28 pid:11107 Workerman[start.php] stopping ...
+2018-03-16 16:15:28 pid:11107 Workerman[start.php] has been stopped
+2018-03-16 16:15:29 pid:11167 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:15:36 pid:11167 Workerman[start.php] stopping ...
+2018-03-16 16:15:36 pid:11167 Workerman[start.php] has been stopped
+2018-03-16 16:15:48 pid:11201 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:15:50 pid:11201 Workerman[start.php] stopping ...
+2018-03-16 16:15:50 pid:11201 Workerman[start.php] has been stopped
+2018-03-16 16:16:16 pid:11239 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:16:18 pid:11239 Workerman[start.php] stopping ...
+2018-03-16 16:16:18 pid:11239 Workerman[start.php] has been stopped
+2018-03-16 16:17:03 pid:11294 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:17:43 pid:11315 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:18:01 pid:11336 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:18:14 pid:11340 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:19:04 pid:11371 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:19:08 pid:11373 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:20:13 pid:11399 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:20:35 pid:11411 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:21:51 pid:11444 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:22:46 pid:11486 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:23:16 pid:11509 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:23:29 pid:11519 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:23:48 pid:11538 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:23:50 pid:11538 Workerman[start.php] stopping ...
+2018-03-16 16:23:50 pid:11538 Workerman[start.php] has been stopped
+2018-03-16 16:23:53 pid:11552 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:24:09 pid:11562 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:24:30 pid:11586 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:24:31 pid:11586 Workerman[start.php] stopping ...
+2018-03-16 16:24:31 pid:11586 Workerman[start.php] has been stopped
+2018-03-16 16:25:59 pid:11648 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:26:01 pid:11648 Workerman[start.php] stopping ...
+2018-03-16 16:26:01 pid:11648 Workerman[start.php] has been stopped
+2018-03-16 16:26:07 pid:11660 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:26:21 pid:11672 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:26:48 pid:11693 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:27:06 pid:11716 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:28:15 pid:11742 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:29:06 pid:11777 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:29:27 pid:11777 Workerman[start.php] stopping ...
+2018-03-16 16:29:27 pid:11777 Workerman[start.php] has been stopped
+2018-03-16 16:29:28 pid:11790 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:29:47 pid:11814 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:30:38 pid:11814 Workerman[start.php] stopping ...
+2018-03-16 16:30:38 pid:11814 Workerman[start.php] has been stopped
+2018-03-16 16:30:39 pid:11846 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:30:40 pid:11846 Workerman[start.php] stopping ...
+2018-03-16 16:30:40 pid:11846 Workerman[start.php] has been stopped
+2018-03-16 16:30:48 pid:11856 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:30:57 pid:11864 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:30:58 pid:11864 Workerman[start.php] stopping ...
+2018-03-16 16:30:58 pid:11864 Workerman[start.php] has been stopped
+2018-03-16 16:31:42 pid:11914 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:32:01 pid:11926 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:32:02 pid:11926 Workerman[start.php] stopping ...
+2018-03-16 16:32:02 pid:11926 Workerman[start.php] has been stopped
+2018-03-16 16:32:18 pid:11941 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:32:19 pid:11941 Workerman[start.php] stopping ...
+2018-03-16 16:32:19 pid:11941 Workerman[start.php] has been stopped
+2018-03-16 16:32:23 pid:11958 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:32:33 pid:11968 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-16 16:32:33 pid:11968 Worker process terminated
+2018-03-16 16:32:33 pid:11967 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-16 16:32:33 pid:11967 Worker process terminated
+2018-03-16 16:32:34 pid:11963 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-16 16:32:34 pid:11963 Worker process terminated
+2018-03-16 16:32:34 pid:11958 worker[center_server:11968] exit with status 64000
+2018-03-16 16:32:34 pid:11958 worker[center_server:11967] exit with status 64000
+2018-03-16 16:32:34 pid:11958 worker[center_server:11963] exit with status 64000
+2018-03-16 16:32:34 pid:11976 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-16 16:32:34 pid:11976 Worker process terminated
+2018-03-16 16:32:34 pid:11975 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-16 16:32:34 pid:11975 Worker process terminated
+2018-03-16 16:32:34 pid:11962 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-16 16:32:34 pid:11962 Worker process terminated
+2018-03-16 16:32:34 pid:11958 worker[center_server:11976] exit with status 64000
+2018-03-16 16:32:34 pid:11958 worker[center_server:11975] exit with status 64000
+2018-03-16 16:32:34 pid:11958 worker[center_server:11962] exit with status 64000
+2018-03-16 16:32:39 pid:11979 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #30)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-16 16:32:39 pid:11979 Worker process terminated
+2018-03-16 16:32:39 pid:11980 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #31)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-16 16:32:39 pid:11980 Worker process terminated
+2018-03-16 16:32:39 pid:11961 Error: Call to undefined function get_url() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:40
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-16 16:32:39 pid:11961 Worker process terminated
+2018-03-16 16:32:39 pid:11958 worker[center_server:11979] exit with status 64000
+2018-03-16 16:32:39 pid:11958 worker[center_server:11980] exit with status 64000
+2018-03-16 16:32:39 pid:11958 worker[center_server:11961] exit with status 64000
+2018-03-16 16:32:47 pid:11958 Workerman[start.php] stopping ...
+2018-03-16 16:32:48 pid:11958 Workerman[start.php] has been stopped
+2018-03-16 16:32:48 pid:11996 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:33:08 pid:11996 Workerman[start.php] stopping ...
+2018-03-16 16:33:08 pid:11996 Workerman[start.php] has been stopped
+2018-03-16 16:33:09 pid:12023 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:33:20 pid:12023 Workerman[start.php] stopping ...
+2018-03-16 16:33:20 pid:12023 Workerman[start.php] has been stopped
+2018-03-16 16:33:21 pid:12042 Workerman[start.php] start in DEBUG mode
+2018-03-16 16:33:28 pid:12042 Workerman[start.php] stopping ...
+2018-03-16 16:33:28 pid:12042 Workerman[start.php] has been stopped
+2018-03-19 10:14:07 pid:2203 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:14:07 pid:2208 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2206 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2207 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2209 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2210 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2213 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2212 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:07 pid:2211 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-19 10:14:08 pid:2208 Worker process terminated
+2018-03-19 10:14:08 pid:2206 Worker process terminated
+2018-03-19 10:14:08 pid:2207 Worker process terminated
+2018-03-19 10:14:08 pid:2209 Worker process terminated
+2018-03-19 10:14:08 pid:2210 Worker process terminated
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2207] exit with status 64000
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2209] exit with status 64000
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2208] exit with status 64000
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2206] exit with status 64000
+2018-03-19 10:14:08 pid:2214 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2212 Worker process terminated
+2018-03-19 10:14:08 pid:2211 Worker process terminated
+2018-03-19 10:14:08 pid:2213 Worker process terminated
+2018-03-19 10:14:08 pid:2215 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2216 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2210] exit with status 64000
+2018-03-19 10:14:08 pid:2217 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2213] exit with status 64000
+2018-03-19 10:14:08 pid:2218 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2211] exit with status 64000
+2018-03-19 10:14:08 pid:2203 worker[proxy_server:2212] exit with status 64000
+2018-03-19 10:14:08 pid:2219 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2220 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:08 pid:2221 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2214 Worker process terminated
+2018-03-19 10:14:09 pid:2215 Worker process terminated
+2018-03-19 10:14:09 pid:2216 Worker process terminated
+2018-03-19 10:14:09 pid:2217 Worker process terminated
+2018-03-19 10:14:09 pid:2218 Worker process terminated
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2214] exit with status 64000
+2018-03-19 10:14:09 pid:2219 Worker process terminated
+2018-03-19 10:14:09 pid:2220 Worker process terminated
+2018-03-19 10:14:09 pid:2221 Worker process terminated
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2217] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2218] exit with status 64000
+2018-03-19 10:14:09 pid:2222 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2216] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2221] exit with status 64000
+2018-03-19 10:14:09 pid:2223 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2220] exit with status 64000
+2018-03-19 10:14:09 pid:2224 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2219] exit with status 64000
+2018-03-19 10:14:09 pid:2225 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2215] exit with status 64000
+2018-03-19 10:14:09 pid:2226 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2227 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2228 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2229 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:21
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-19 10:14:09 pid:2229 Worker process terminated
+2018-03-19 10:14:09 pid:2224 Worker process terminated
+2018-03-19 10:14:09 pid:2223 Worker process terminated
+2018-03-19 10:14:09 pid:2225 Worker process terminated
+2018-03-19 10:14:09 pid:2228 Worker process terminated
+2018-03-19 10:14:09 pid:2203 Workerman[start.php] stopping ...
+2018-03-19 10:14:09 pid:2227 Worker process terminated
+2018-03-19 10:14:09 pid:2222 Worker process terminated
+2018-03-19 10:14:09 pid:2226 Worker process terminated
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2225] exit with status 11
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2224] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2229] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2228] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2223] exit with status 11
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2227] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2226] exit with status 64000
+2018-03-19 10:14:09 pid:2203 worker[proxy_server:2222] exit with status 64000
+2018-03-19 10:14:09 pid:2203 Workerman[start.php] has been stopped
+2018-03-19 10:14:17 pid:2239 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:14:27 pid:2239 Workerman[start.php] stopping ...
+2018-03-19 10:14:27 pid:2239 Workerman[start.php] has been stopped
+2018-03-19 10:14:28 pid:2267 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:14:39 pid:2276 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-19 10:14:39 pid:2276 Worker process terminated
+2018-03-19 10:14:39 pid:2275 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-19 10:14:39 pid:2275 Worker process terminated
+2018-03-19 10:14:39 pid:2270 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-19 10:14:39 pid:2270 Worker process terminated
+2018-03-19 10:14:39 pid:2267 worker[proxy_server:2276] exit with status 64000
+2018-03-19 10:14:39 pid:2267 worker[proxy_server:2275] exit with status 64000
+2018-03-19 10:14:39 pid:2267 worker[proxy_server:2270] exit with status 64000
+2018-03-19 10:14:40 pid:2283 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #26)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-19 10:14:40 pid:2283 Worker process terminated
+2018-03-19 10:14:40 pid:2284 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-19 10:14:40 pid:2284 Worker process terminated
+2018-03-19 10:14:40 pid:2271 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-19 10:14:40 pid:2271 Worker process terminated
+2018-03-19 10:14:40 pid:2267 worker[proxy_server:2283] exit with status 64000
+2018-03-19 10:14:40 pid:2267 worker[proxy_server:2284] exit with status 64000
+2018-03-19 10:14:40 pid:2267 worker[proxy_server:2271] exit with status 64000
+2018-03-19 10:14:45 pid:2287 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #30)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-19 10:14:45 pid:2287 Worker process terminated
+2018-03-19 10:14:45 pid:2286 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #29)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-19 10:14:45 pid:2286 Worker process terminated
+2018-03-19 10:14:45 pid:2272 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:31
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /abv HTTP/1...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-19 10:14:45 pid:2272 Worker process terminated
+2018-03-19 10:14:45 pid:2267 worker[proxy_server:2287] exit with status 64000
+2018-03-19 10:14:45 pid:2267 worker[proxy_server:2286] exit with status 64000
+2018-03-19 10:14:45 pid:2267 worker[proxy_server:2272] exit with status 64000
+2018-03-19 10:14:59 pid:2267 Workerman[start.php] stopping ...
+2018-03-19 10:14:59 pid:2267 Workerman[start.php] has been stopped
+2018-03-19 10:15:00 pid:2314 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:15:04 pid:2314 Workerman[start.php] stopping ...
+2018-03-19 10:15:04 pid:2314 Workerman[start.php] has been stopped
+2018-03-19 10:18:38 pid:2474 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:18:42 pid:2474 Workerman[start.php] stopping ...
+2018-03-19 10:18:42 pid:2474 Workerman[start.php] has been stopped
+2018-03-19 10:19:54 pid:2510 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:19:57 pid:2510 Workerman[start.php] stopping ...
+2018-03-19 10:19:57 pid:2510 Workerman[start.php] has been stopped
+2018-03-19 10:27:20 pid:2714 Workerman[start.php] start in DEBUG mode
+2018-03-19 10:27:22 pid:2714 Workerman[start.php] stopping ...
+2018-03-19 10:27:22 pid:2714 Workerman[start.php] has been stopped
+2018-03-21 11:10:29 pid:8583 Workerman[start.php] start in DEBUG mode
+2018-03-21 11:10:41 pid:8592 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 11:10:41 pid:8592 Worker process terminated
+2018-03-21 11:10:41 pid:8593 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 11:10:41 pid:8593 Worker process terminated
+2018-03-21 11:10:41 pid:8588 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 11:10:41 pid:8588 Worker process terminated
+2018-03-21 11:10:41 pid:8583 worker[proxy_server:8593] exit with status 64000
+2018-03-21 11:10:41 pid:8583 worker[proxy_server:8592] exit with status 64000
+2018-03-21 11:10:41 pid:8583 worker[proxy_server:8588] exit with status 64000
+2018-03-21 11:10:42 pid:8603 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #28)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 11:10:42 pid:8603 Worker process terminated
+2018-03-21 11:10:42 pid:8602 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 11:10:42 pid:8602 Worker process terminated
+2018-03-21 11:10:42 pid:8586 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 11:10:42 pid:8586 Worker process terminated
+2018-03-21 11:10:42 pid:8583 worker[proxy_server:8602] exit with status 64000
+2018-03-21 11:10:42 pid:8583 worker[proxy_server:8603] exit with status 64000
+2018-03-21 11:10:42 pid:8583 worker[proxy_server:8586] exit with status 64000
+2018-03-21 11:10:47 pid:8605 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #30)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 11:10:47 pid:8605 Worker process terminated
+2018-03-21 11:10:47 pid:8606 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #31)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 11:10:47 pid:8606 Worker process terminated
+2018-03-21 11:10:47 pid:8587 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:27
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 11:10:47 pid:8587 Worker process terminated
+2018-03-21 11:10:47 pid:8583 worker[proxy_server:8605] exit with status 64000
+2018-03-21 11:10:47 pid:8583 worker[proxy_server:8606] exit with status 64000
+2018-03-21 11:10:47 pid:8583 worker[proxy_server:8587] exit with status 64000
+2018-03-21 11:10:53 pid:8583 Workerman[start.php] stopping ...
+2018-03-21 11:10:53 pid:8583 Workerman[start.php] has been stopped
+2018-03-21 11:10:54 pid:8622 Workerman[start.php] start in DEBUG mode
+2018-03-21 13:56:12 pid:1326 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:10:35 pid:1326 Workerman[start.php] stopping ...
+2018-03-21 14:10:35 pid:1326 Workerman[start.php] has been stopped
+2018-03-21 14:10:35 pid:1654 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:10:49 pid:1664 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:49 pid:1663 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:49 pid:1658 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:49 pid:1657 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:49 pid:1659 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:49 pid:1654 worker[proxy_server:1664] exit with status 65280
+2018-03-21 14:10:49 pid:1654 worker[proxy_server:1663] exit with status 65280
+2018-03-21 14:10:49 pid:1654 worker[proxy_server:1658] exit with status 65280
+2018-03-21 14:10:49 pid:1654 worker[proxy_server:1657] exit with status 65280
+2018-03-21 14:10:49 pid:1654 worker[proxy_server:1659] exit with status 65280
+2018-03-21 14:10:50 pid:1677 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:50 pid:1661 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:50 pid:1678 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:50 pid:1654 worker[proxy_server:1677] exit with status 65280
+2018-03-21 14:10:50 pid:1654 worker[proxy_server:1678] exit with status 65280
+2018-03-21 14:10:50 pid:1654 worker[proxy_server:1661] exit with status 65280
+2018-03-21 14:10:55 pid:1681 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:55 pid:1662 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:55 pid:1680 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:55 pid:1660 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_ in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:55 pid:1679 Worker process terminated with ERROR: E_ERROR "Uncaught Error: Call to undefined function Workerman\dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php:2142
+Stack trace:
+#0 [internal function]: Workerman\Worker->acceptConnection(Resource id #18)
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php on line 2142"
+2018-03-21 14:10:55 pid:1654 worker[proxy_server:1662] exit with status 65280
+2018-03-21 14:10:55 pid:1654 worker[proxy_server:1680] exit with status 65280
+2018-03-21 14:10:55 pid:1654 worker[proxy_server:1681] exit with status 65280
+2018-03-21 14:10:55 pid:1654 worker[proxy_server:1679] exit with status 65280
+2018-03-21 14:10:55 pid:1654 worker[proxy_server:1660] exit with status 65280
+2018-03-21 14:18:18 pid:1654 Workerman[start.php] stopping ...
+2018-03-21 14:18:18 pid:1654 Workerman[start.php] has been stopped
+2018-03-21 14:18:18 pid:1848 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:23:49 pid:1848 Workerman[start.php] stopping ...
+2018-03-21 14:23:49 pid:1848 Workerman[start.php] has been stopped
+2018-03-21 14:23:50 pid:2007 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:25:55 pid:2007 Workerman[start.php] stopping ...
+2018-03-21 14:25:55 pid:2007 Workerman[start.php] has been stopped
+2018-03-21 14:25:55 pid:2159 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:28:48 pid:2159 Workerman[start.php] stopping ...
+2018-03-21 14:28:48 pid:2159 Workerman[start.php] has been stopped
+2018-03-21 14:28:59 pid:2331 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:39:36 pid:2331 Workerman[start.php] stopping ...
+2018-03-21 14:39:36 pid:2331 Workerman[start.php] has been stopped
+2018-03-21 14:39:37 pid:2596 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:40:27 pid:2596 Workerman[start.php] stopping ...
+2018-03-21 14:40:27 pid:2596 Workerman[start.php] has been stopped
+2018-03-21 14:40:28 pid:2643 Workerman[start.php] start in DEBUG mode
+2018-03-21 14:59:36 pid:2643 Workerman[start.php] stopping ...
+2018-03-21 14:59:36 pid:2643 Workerman[start.php] has been stopped
+2018-03-21 15:52:37 pid:5329 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:53:33 pid:5329 Workerman[start.php] stopping ...
+2018-03-21 15:53:33 pid:5329 Workerman[start.php] has been stopped
+2018-03-21 15:53:34 pid:5361 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:53:36 pid:5368 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/lib/helper.php:112
+Stack trace:
+#0 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php(31): select_address()
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#11 {main}
+2018-03-21 15:53:36 pid:5368 Worker process terminated
+2018-03-21 15:53:36 pid:5370 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/lib/helper.php:112
+Stack trace:
+#0 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php(31): select_address()
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#11 {main}
+2018-03-21 15:53:36 pid:5370 Worker process terminated
+2018-03-21 15:53:36 pid:5364 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/lib/helper.php:112
+Stack trace:
+#0 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php(31): select_address()
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#11 {main}
+2018-03-21 15:53:36 pid:5364 Worker process terminated
+2018-03-21 15:53:36 pid:5361 worker[proxy_server:5368] exit with status 64000
+2018-03-21 15:53:36 pid:5361 worker[proxy_server:5370] exit with status 64000
+2018-03-21 15:53:36 pid:5361 worker[proxy_server:5364] exit with status 64000
+2018-03-21 15:53:46 pid:5361 Workerman[start.php] stopping ...
+2018-03-21 15:53:46 pid:5361 Workerman[start.php] has been stopped
+2018-03-21 15:53:47 pid:5384 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:54:13 pid:5384 Workerman[start.php] stopping ...
+2018-03-21 15:54:13 pid:5384 Workerman[start.php] has been stopped
+2018-03-21 15:54:14 pid:5419 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:55:55 pid:5419 Workerman[start.php] stopping ...
+2018-03-21 15:55:55 pid:5419 Workerman[start.php] has been stopped
+2018-03-21 15:55:56 pid:5516 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:56:28 pid:5516 Workerman[start.php] stopping ...
+2018-03-21 15:56:28 pid:5516 Workerman[start.php] has been stopped
+2018-03-21 15:56:28 pid:5548 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:56:51 pid:5548 Workerman[start.php] stopping ...
+2018-03-21 15:56:51 pid:5548 Workerman[start.php] has been stopped
+2018-03-21 15:56:51 pid:5574 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:57:13 pid:5574 Workerman[start.php] stopping ...
+2018-03-21 15:57:13 pid:5574 Workerman[start.php] has been stopped
+2018-03-21 15:57:13 pid:5594 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:57:37 pid:5594 Workerman[start.php] stopping ...
+2018-03-21 15:57:37 pid:5594 Workerman[start.php] has been stopped
+2018-03-21 15:57:38 pid:5618 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:58:02 pid:5618 Workerman[start.php] stopping ...
+2018-03-21 15:58:02 pid:5618 Workerman[start.php] has been stopped
+2018-03-21 15:58:02 pid:5639 Workerman[start.php] start in DEBUG mode
+2018-03-21 15:58:12 pid:5639 Workerman[start.php] stopping ...
+2018-03-21 15:58:12 pid:5639 Workerman[start.php] has been stopped
+2018-03-21 15:58:12 pid:5651 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:00:49 pid:5651 Workerman[start.php] stopping ...
+2018-03-21 16:00:49 pid:5651 Workerman[start.php] has been stopped
+2018-03-21 16:00:50 pid:5772 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:01:24 pid:5772 Workerman[start.php] stopping ...
+2018-03-21 16:01:24 pid:5772 Workerman[start.php] has been stopped
+2018-03-21 16:01:24 pid:5803 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:01:43 pid:5803 Workerman[start.php] stopping ...
+2018-03-21 16:01:43 pid:5803 Workerman[start.php] has been stopped
+2018-03-21 16:01:44 pid:5838 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:12:59 pid:5838 Workerman[start.php] stopping ...
+2018-03-21 16:12:59 pid:5838 Workerman[start.php] has been stopped
+2018-03-21 16:13:00 pid:6287 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:13:06 pid:6287 Workerman[start.php] stopping ...
+2018-03-21 16:13:06 pid:6287 Workerman[start.php] has been stopped
+2018-03-21 16:16:06 pid:6394 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:16:06 pid:6398 Error: Class 'Client' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:24
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#7 {main}
+2018-03-21 16:16:07 pid:6398 Worker process terminated
+2018-03-21 16:16:07 pid:6394 worker[proxy_server:6398] exit with status 64000
+2018-03-21 16:16:07 pid:6399 Error: Class 'Client' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:24
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Worker))
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2080): call_user_func(Object(Closure), Object(Workerman\Worker))
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#9 {main}
+2018-03-21 16:16:07 pid:6399 Worker process terminated
+2018-03-21 16:16:07 pid:6394 Workerman[start.php] stopping ...
+2018-03-21 16:16:07 pid:6394 worker[proxy_server:6399] exit with status 11
+2018-03-21 16:16:07 pid:6394 Workerman[start.php] has been stopped
+2018-03-21 16:16:24 pid:6410 Workerman[start.php] start in DEBUG mode
+2018-03-21 16:16:29 pid:6410 Workerman[start.php] stopping ...
+2018-03-21 16:16:29 pid:6410 Workerman[start.php] has been stopped
+2018-03-21 16:16:38 pid:6426 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:19:34 pid:6426 Workerman[start.php] stopping ...
+2018-03-21 17:19:34 pid:6426 Workerman[start.php] has been stopped
+2018-03-21 17:19:34 pid:7976 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:20:09 pid:7976 Workerman[start.php] stopping ...
+2018-03-21 17:20:09 pid:7976 Workerman[start.php] has been stopped
+2018-03-21 17:20:10 pid:8013 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:20:16 pid:8017 Error: Class 'Workerman\Protocols\HttpCache' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:63
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #32)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#10 {main}
+2018-03-21 17:20:16 pid:8017 Worker process terminated
+2018-03-21 17:20:16 pid:8013 worker[proxy_server:8017] exit with status 64000
+2018-03-21 17:20:16 pid:8021 Error: Class 'Workerman\Protocols\HttpCache' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:63
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 17:20:16 pid:8021 Worker process terminated
+2018-03-21 17:20:16 pid:8013 worker[proxy_server:8021] exit with status 64000
+2018-03-21 17:20:16 pid:8022 Error: Class 'Workerman\Protocols\HttpCache' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:63
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 17:20:16 pid:8022 Worker process terminated
+2018-03-21 17:20:16 pid:8013 worker[proxy_server:8022] exit with status 64000
+2018-03-21 17:20:16 pid:8023 Error: Class 'Workerman\Protocols\HttpCache' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:63
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #35)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 17:20:16 pid:8023 Worker process terminated
+2018-03-21 17:20:16 pid:8013 worker[proxy_server:8023] exit with status 64000
+2018-03-21 17:20:21 pid:8024 Error: Class 'Workerman\Protocols\HttpCache' not found in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:63
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.1\r...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #36)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(18): Workerman\Worker::runAll()
+#12 {main}
+2018-03-21 17:20:21 pid:8024 Worker process terminated
+2018-03-21 17:20:21 pid:8013 worker[proxy_server:8024] exit with status 64000
+2018-03-21 17:22:24 pid:8013 Workerman[start.php] stopping ...
+2018-03-21 17:22:24 pid:8013 Workerman[start.php] has been stopped
+2018-03-21 17:22:24 pid:8119 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:22:47 pid:8119 Workerman[start.php] stopping ...
+2018-03-21 17:22:47 pid:8119 Workerman[start.php] has been stopped
+2018-03-21 17:22:48 pid:8145 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:23:19 pid:8145 Workerman[start.php] stopping ...
+2018-03-21 17:23:19 pid:8145 Workerman[start.php] has been stopped
+2018-03-21 17:23:19 pid:8172 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:23:41 pid:8172 Workerman[start.php] stopping ...
+2018-03-21 17:23:41 pid:8172 Workerman[start.php] has been stopped
+2018-03-21 17:23:41 pid:8190 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:25:22 pid:8190 Workerman[start.php] stopping ...
+2018-03-21 17:25:22 pid:8190 Workerman[start.php] has been stopped
+2018-03-21 17:25:23 pid:8274 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:28:54 pid:8274 Workerman[start.php] stopping ...
+2018-03-21 17:28:54 pid:8274 Workerman[start.php] has been stopped
+2018-03-21 17:28:55 pid:8383 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:29:12 pid:8383 Workerman[start.php] stopping ...
+2018-03-21 17:29:12 pid:8383 Workerman[start.php] has been stopped
+2018-03-21 17:29:13 pid:8397 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:30:32 pid:8397 Workerman[start.php] stopping ...
+2018-03-21 17:30:32 pid:8397 Workerman[start.php] has been stopped
+2018-03-21 17:30:33 pid:8470 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:33:55 pid:8470 Workerman[start.php] stopping ...
+2018-03-21 17:33:55 pid:8470 Workerman[start.php] has been stopped
+2018-03-21 17:33:55 pid:8635 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:34:27 pid:8635 Workerman[start.php] stopping ...
+2018-03-21 17:34:27 pid:8635 Workerman[start.php] has been stopped
+2018-03-21 17:34:28 pid:8658 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:35:24 pid:8658 Workerman[start.php] stopping ...
+2018-03-21 17:35:24 pid:8658 Workerman[start.php] has been stopped
+2018-03-21 17:35:25 pid:8705 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:35:27 pid:8705 Workerman[start.php] stopping ...
+2018-03-21 17:35:27 pid:8705 Workerman[start.php] has been stopped
+2018-03-21 17:35:35 pid:8719 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:35:46 pid:8719 Workerman[start.php] stopping ...
+2018-03-21 17:35:46 pid:8719 Workerman[start.php] has been stopped
+2018-03-21 17:36:29 pid:8760 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:36:30 pid:8760 Workerman[start.php] stopping ...
+2018-03-21 17:36:30 pid:8760 Workerman[start.php] has been stopped
+2018-03-21 17:36:55 pid:8779 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:37:33 pid:8779 Workerman[start.php] stopping ...
+2018-03-21 17:37:33 pid:8779 Workerman[start.php] has been stopped
+2018-03-21 17:37:34 pid:8834 Workerman[start.php] start in DEBUG mode
+2018-03-21 17:37:38 pid:8834 Workerman[start.php] stopping ...
+2018-03-21 17:37:38 pid:8834 Workerman[start.php] has been stopped
+2018-03-21 17:37:40 pid:8843 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:37:16 pid:2797 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:37:21 pid:2797 Workerman[start.php] stopping ...
+2018-03-22 10:37:21 pid:2797 Workerman[start.php] has been stopped
+2018-03-22 10:38:12 pid:2839 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:38:13 pid:2839 Workerman[start.php] stopping ...
+2018-03-22 10:38:13 pid:2839 Workerman[start.php] has been stopped
+2018-03-22 10:38:22 pid:2860 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:40:16 pid:2860 Workerman[start.php] stopping ...
+2018-03-22 10:40:16 pid:2860 Workerman[start.php] has been stopped
+2018-03-22 10:40:17 pid:2976 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:40:53 pid:2976 Workerman[start.php] stopping ...
+2018-03-22 10:40:53 pid:2976 Workerman[start.php] has been stopped
+2018-03-22 10:40:54 pid:3007 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:41:24 pid:3007 Workerman[start.php] stopping ...
+2018-03-22 10:41:24 pid:3007 Workerman[start.php] has been stopped
+2018-03-22 10:41:27 pid:3033 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:42:33 pid:3033 Workerman[start.php] stopping ...
+2018-03-22 10:42:33 pid:3033 Workerman[start.php] has been stopped
+2018-03-22 10:42:34 pid:3077 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:44:34 pid:3077 Workerman[start.php] stopping ...
+2018-03-22 10:44:34 pid:3077 Workerman[start.php] has been stopped
+2018-03-22 10:44:35 pid:3123 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:45:22 pid:3123 Workerman[start.php] stopping ...
+2018-03-22 10:45:22 pid:3123 Workerman[start.php] has been stopped
+2018-03-22 10:45:23 pid:3177 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:45:38 pid:3177 Workerman[start.php] stopping ...
+2018-03-22 10:45:38 pid:3177 Workerman[start.php] has been stopped
+2018-03-22 10:45:38 pid:3186 Workerman[start.php] start in DEBUG mode
+2018-03-22 10:46:03 pid:3186 Workerman[start.php] stopping ...
+2018-03-22 10:46:03 pid:3186 Workerman[start.php] has been stopped
+2018-03-22 10:46:04 pid:3209 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:10:13 pid:3579 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:10:35 pid:3579 Workerman[start.php] stopping ...
+2018-03-22 15:10:35 pid:3579 Workerman[start.php] has been stopped
+2018-03-22 15:11:28 pid:3643 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:13:11 pid:3643 Workerman[start.php] stopping ...
+2018-03-22 15:13:11 pid:3643 Workerman[start.php] has been stopped
+2018-03-22 15:13:12 pid:3734 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:14:06 pid:3734 Workerman[start.php] stopping ...
+2018-03-22 15:14:06 pid:3734 Workerman[start.php] has been stopped
+2018-03-22 15:14:07 pid:3765 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:14:47 pid:3769 Worker process terminated with ERROR: E_ERROR "Uncaught Exception: class \Protocols\ not exist in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/AsyncTcpConnection.php:150
+Stack trace:
+#0 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php(33): Workerman\Connection\AsyncTcpConnection->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(233): call_user_func_array(Object(Closure), Array)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(274): Workerman\Events\Select->tick()
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/prox in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/AsyncTcpConnection.php on line 150"
+2018-03-22 15:14:47 pid:3765 worker[proxy_server:3769] exit with status 65280
+2018-03-22 15:14:52 pid:3765 Workerman[start.php] stopping ...
+2018-03-22 15:14:52 pid:3765 Workerman[start.php] has been stopped
+2018-03-22 15:18:12 pid:3864 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:18:17 pid:3868 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#10 {main}
+2018-03-22 15:18:17 pid:3868 Worker process terminated
+2018-03-22 15:18:17 pid:3864 worker[proxy_server:3868] exit with status 64000
+2018-03-22 15:18:17 pid:3877 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:17 pid:3877 Worker process terminated
+2018-03-22 15:18:17 pid:3864 worker[proxy_server:3877] exit with status 64000
+2018-03-22 15:18:17 pid:3878 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #35)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:17 pid:3878 Worker process terminated
+2018-03-22 15:18:17 pid:3864 worker[proxy_server:3878] exit with status 64000
+2018-03-22 15:18:17 pid:3879 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #36)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:17 pid:3879 Worker process terminated
+2018-03-22 15:18:17 pid:3864 worker[proxy_server:3879] exit with status 64000
+2018-03-22 15:18:17 pid:3880 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #37)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:17 pid:3880 Worker process terminated
+2018-03-22 15:18:17 pid:3864 worker[proxy_server:3880] exit with status 64000
+2018-03-22 15:18:22 pid:3881 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #38)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:22 pid:3881 Worker process terminated
+2018-03-22 15:18:22 pid:3864 worker[proxy_server:3881] exit with status 64000
+2018-03-22 15:18:22 pid:3884 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #39)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:22 pid:3884 Worker process terminated
+2018-03-22 15:18:22 pid:3864 worker[proxy_server:3884] exit with status 64000
+2018-03-22 15:18:22 pid:3885 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #40)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:22 pid:3885 Worker process terminated
+2018-03-22 15:18:22 pid:3864 worker[proxy_server:3885] exit with status 64000
+2018-03-22 15:18:22 pid:3886 Error: Call to undefined function dd() in /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start_proxy.php:78
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#1 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Connection/TcpConnection.php(680): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET /admin/inde...')
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #41)
+#3 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#4 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(2095): Workerman\Events\Select->loop()
+#5 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1293): Workerman\Worker->run()
+#6 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1126): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1099): Workerman\Worker::forkWorkersForLinux()
+#8 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1425): Workerman\Worker::forkWorkers()
+#9 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(1374): Workerman\Worker::monitorWorkersForLinux()
+#10 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/Workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#11 /Users/zhaodanyang/workspace/pingtai_new/proxy_system/start.php(17): Workerman\Worker::runAll()
+#12 {main}
+2018-03-22 15:18:22 pid:3886 Worker process terminated
+2018-03-22 15:18:22 pid:3864 worker[proxy_server:3886] exit with status 64000
+2018-03-22 15:18:36 pid:3864 Workerman[start.php] stopping ...
+2018-03-22 15:18:36 pid:3864 Workerman[start.php] has been stopped
+2018-03-22 15:18:37 pid:3905 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:19:14 pid:3905 Workerman[start.php] stopping ...
+2018-03-22 15:19:14 pid:3905 Workerman[start.php] has been stopped
+2018-03-22 15:19:17 pid:3949 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:19:18 pid:3949 Workerman[start.php] stopping ...
+2018-03-22 15:19:18 pid:3949 Workerman[start.php] has been stopped
+2018-03-22 15:19:20 pid:3956 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:19:30 pid:3960 Worker process terminated
+2018-03-22 15:20:27 pid:3956 Workerman[start.php] stopping ...
+2018-03-22 15:20:27 pid:3956 Workerman[start.php] has been stopped
+2018-03-22 15:20:28 pid:4024 Workerman[start.php] start in DEBUG mode
+2018-03-22 15:21:21 pid:4024 Workerman[start.php] stopping ...
+2018-03-22 15:21:21 pid:4024 Workerman[start.php] has been stopped
+2018-03-22 16:27:23 pid:5672 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:28:14 pid:5672 Workerman[start.php] stopping ...
+2018-03-22 16:28:14 pid:5672 Workerman[start.php] has been stopped
+2018-03-22 16:28:15 pid:5722 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:29:45 pid:5722 Workerman[start.php] stopping ...
+2018-03-22 16:29:45 pid:5722 Workerman[start.php] has been stopped
+2018-03-22 16:29:55 pid:5833 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:31:31 pid:5833 Workerman[start.php] stopping ...
+2018-03-22 16:31:32 pid:5833 Workerman[start.php] has been stopped
+2018-03-22 16:31:32 pid:5903 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:33:41 pid:5903 Workerman[start.php] stopping ...
+2018-03-22 16:33:41 pid:5903 Workerman[start.php] has been stopped
+2018-03-22 16:33:41 pid:5989 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:35:24 pid:5989 Workerman[start.php] stopping ...
+2018-03-22 16:35:24 pid:5989 Workerman[start.php] has been stopped
+2018-03-22 16:35:28 pid:6054 Workerman[start.php] start in DEBUG mode
+2018-03-22 16:36:08 pid:6054 Workerman[start.php] stopping ...
+2018-03-22 16:36:08 pid:6054 Workerman[start.php] has been stopped
+2018-03-22 16:36:10 pid:6082 Workerman[start.php] start in DAEMON mode
+2018-03-22 16:36:25 pid:6098 Workerman[start.php] status 
+2018-03-22 16:36:58 pid:6110 Workerman[start.php] status 
+2018-03-22 16:37:33 pid:6123 Workerman[start.php] status 
+2018-03-22 16:37:54 pid:6134 Workerman[start.php] restart 
+2018-03-22 16:37:54 pid:6134 Workerman[start.php] is stoping ...
+2018-03-22 16:37:54 pid:6084 Workerman[start.php] stopping ...
+2018-03-22 16:37:54 pid:6084 Workerman[start.php] has been stopped
+2018-03-22 16:37:54 pid:6134 Workerman[start.php] stop success
+2018-03-22 16:39:54 pid:6134 Workerman[start.php] stopping ...
+2018-03-22 16:39:54 pid:6134 Workerman[start.php] has been stopped
+2018-03-22 16:40:00 pid:6205 Workerman[start.php] restart 
+2018-03-22 16:40:00 pid:6205 Workerman[start.php] is stoping ...
+2018-03-22 16:40:00 pid:6205 Workerman[start.php] stop success
+2018-03-22 16:44:39 pid:6205 Workerman[start.php] stopping ...
+2018-03-22 16:44:39 pid:6205 Workerman[start.php] has been stopped
+2018-03-22 16:44:40 pid:6332 Workerman[start.php] restart 
+2018-03-22 16:44:40 pid:6332 Workerman[start.php] is stoping ...
+2018-03-22 16:44:40 pid:6332 Workerman[start.php] stop success
+2018-03-22 16:54:15 pid:6332 Workerman[start.php] stopping ...
+2018-03-22 16:54:15 pid:6332 Workerman[start.php] has been stopped
+2018-03-22 16:54:16 pid:6569 Workerman[start.php] restart 
+2018-03-22 16:54:16 pid:6569 Workerman[start.php] is stoping ...
+2018-03-22 16:54:16 pid:6569 Workerman[start.php] stop success
+2018-03-22 16:54:52 pid:6569 Workerman[start.php] stopping ...
+2018-03-22 16:54:52 pid:6569 Workerman[start.php] has been stopped
+2018-03-22 16:54:53 pid:6593 Workerman[start.php] restart 
+2018-03-22 16:54:53 pid:6593 Workerman[start.php] is stoping ...
+2018-03-22 16:54:53 pid:6593 Workerman[start.php] stop success
+2018-03-22 16:55:20 pid:6593 Workerman[start.php] stopping ...
+2018-03-22 16:55:20 pid:6593 Workerman[start.php] has been stopped
+2018-03-22 16:55:21 pid:6617 Workerman[start.php] restart 
+2018-03-22 16:55:21 pid:6617 Workerman[start.php] is stoping ...
+2018-03-22 16:55:21 pid:6617 Workerman[start.php] stop success
+2018-03-22 16:56:13 pid:6617 Workerman[start.php] stopping ...
+2018-03-22 16:56:13 pid:6617 Workerman[start.php] has been stopped
+2018-03-22 16:56:14 pid:6687 Workerman[start.php] restart 
+2018-03-22 16:56:14 pid:6687 Workerman[start.php] is stoping ...
+2018-03-22 16:56:14 pid:6687 Workerman[start.php] stop success
+2018-03-22 16:59:50 pid:6687 Workerman[start.php] stopping ...
+2018-03-22 16:59:50 pid:6687 Workerman[start.php] has been stopped
+2018-03-22 16:59:54 pid:6799 Workerman[start.php] restart 
+2018-03-22 16:59:54 pid:6799 Workerman[start.php] is stoping ...
+2018-03-22 16:59:54 pid:6799 Workerman[start.php] stop success
+2018-03-22 17:00:58 pid:6799 Workerman[start.php] stopping ...
+2018-03-22 17:00:58 pid:6799 Workerman[start.php] has been stopped
+2018-03-26 09:35:41 pid:1443 Workerman[start.php] start in DEBUG mode
+2018-03-26 09:35:44 pid:1443 Workerman[start.php] stopping ...
+2018-03-26 09:35:44 pid:1443 Workerman[start.php] has been stopped
